@@ -42,7 +42,7 @@ const App = () => {
               >
                 <motion.h1
                   variants={fadeInUp}
-                  className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl tracking-tighter text-balance font-medium"
+                  className="text-4xl sm:text-5xl lg:text-6xl tracking-tighter text-balance font-medium"
                 >
                   Convenient, Affordable and Reliable Expert Medical Opinions
                 </motion.h1>
