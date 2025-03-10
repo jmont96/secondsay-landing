@@ -233,7 +233,7 @@ function FeatureCards() {
       viewport={{ once: true }}
       variants={staggerContainer}
       transition={{ delay: 0.5 }}
-      className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-12 lg:mt-16"
+      className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-1 mt-12 lg:mt-16"
     >
       <motion.div className="relative bg-sky-200  rounded-2xl p-3 h-[400px] overflow-hidden flex flex-col gap-3">
         <div className="relative size-12 bg-white rounded-full flex items-center justify-center z-10">
